@@ -124,4 +124,8 @@ public final class ApplicationTest {
     private boolean stillRunning() {
         return applicationThread != null && applicationThread.isAlive();
     }
+    
+    private void commitTest() {
+    	
+    }
 }
